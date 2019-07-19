@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Employee Management API
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: govind
+Implementation-Vendor-Id: com.slashcode.springboot
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/employee-api
+Created-By: Maven Integration for Eclipse
+
